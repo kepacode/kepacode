@@ -1,6 +1,6 @@
 ## Hi there 👋
 -----------------------------------
-🔭 I’m currently working on Bots
+🔭 I’m currently working on Bots and Mods
 -----------------------------------
 🌱 I’m currently learning Python, TelegramAPI
 -----------------------------------
