@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Don't Starve Together API](https://github.com/kepacode/DST-API)
 
-- 🌱 I’m currently learning **Python, Lua**
+- 🌱 I’m currently learning **Python, ASM, C++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kepacode](https://github.com/kepacode)
 
