@@ -82,13 +82,13 @@ I believe in learning by doing, failing fast, and sharing the journey. If you're
 
 <div align="center">
 
-[![GitHub followers](https://img.shields.io/github/followers/Xuviu?style=social)](https://github.com/Xuviu)
-[![GitHub stars](https://img.shields.io/github/stars/Xuviu?style=social)](https://github.com/Xuviu)
+[![GitHub followers](https://img.shields.io/github/followers/kepacode?style=social)](https://github.com/kepacode)
+[![GitHub stars](https://img.shields.io/github/stars/kepacode?style=social)](https://github.com/kepacode)
 
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Xuviu&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=kepacode&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>
 
 ---
