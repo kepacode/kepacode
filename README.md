@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">Hello, my name is Gayaz, I'm starter in coding and share my works and thoughts here!</h2>
+<h2 align="center">Hello, my name is Xuviu, I'm starter in coding and share my works and thoughts here!</h2>
 
 ###
 
