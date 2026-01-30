@@ -3,7 +3,7 @@
 ###
 
 <h2 align="center">Hello, my name is Xuviu, I'm starter in coding and I'll share my works and thoughts here!</h2>
-Pentesing (Practising as Red Team), reverse-engineering, web developement
+<div align="center">Pentesing (Practising as Red Team), reverse-engineering, web developement</div>
 
 ###
 
