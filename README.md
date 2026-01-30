@@ -56,6 +56,14 @@ I'm just getting started in the world of coding, but I'm passionate about **cybe
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kepacode&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kepacode/kepacode/refs/heads/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kepacode/kepacode/refs/heads/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" />
+  </picture>
+</div>
+
 ---
 
 ## 🌱 Current Focus
